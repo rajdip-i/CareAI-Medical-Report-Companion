@@ -115,20 +115,3 @@ By empowering patients with knowledge about their health, this bot promotes bett
 
 ---
 
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for more information.
-
----
-
-## Contributing
-
-Contributions are welcome! If you'd like to improve the project, feel free to fork the repository and submit a pull request.
-
----
-
-## Contact
-
-For questions or support, feel free to contact [Rajdip](https://github.com/rajdip-i).
-```
-
