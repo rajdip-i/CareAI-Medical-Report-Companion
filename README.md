@@ -6,9 +6,9 @@ This project is designed to help patients understand their medical reports by le
 
 ## Demo Screenshots
 
-![Demo Screenshot](Images/1.png "Demo of the Medical Bot")
-![Demo Screenshot](Images/2.png "Demo of the Medical Bot")
-![Demo Screenshot](Images/3.png "Demo of the Medical Bot")
+![Demo Screenshot](images/1.png "Demo of the Medical Bot")
+![Demo Screenshot](images/2.png "Demo of the Medical Bot")
+![Demo Screenshot](images/3.png "Demo of the Medical Bot")
 
 ---
 
