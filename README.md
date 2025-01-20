@@ -2,7 +2,7 @@
 
 This project is designed to help patients understand their medical reports by leveraging advanced NLP (RAG) techniques. Medical reports often contain complex terminology and detailed information that can be difficult for the average patient to interpret. This bot simplifies the process by allowing users to upload their medical PDFs and interactively query the content through a Streamlit-powered web application.
 
----
+--- 
  
 ## Demo Screenshots
 
